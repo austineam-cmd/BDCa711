@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  wokwi_id:     481701552333751297       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "BCD 7 segments"      # Project title
+  author:       "austine"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
@@ -26,14 +26,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "b0"
+  uo[1]: "b1"
+  uo[2]: "b2"
+  uo[3]: "b3"
+  uo[4]: "b4"
+  uo[5]: "b5"
+  uo[6]: "b6"
+  uo[7]: "b7"
 
   # Bidirectional pins
   uio[0]: ""
